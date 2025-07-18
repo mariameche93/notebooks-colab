@@ -6,3 +6,6 @@ plotly>=5.18.0
 scikit-learn>=1.3.0
 tensorflow>=2.13.0
 pyarrow>=14.0.0     # Parquet export / read
+
+
+numpy
